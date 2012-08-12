@@ -1,0 +1,17 @@
+INPUT(
+./debug\doctable.o
+./debug\main.o
+./debug\mainwindow.o
+./debug\mtable.o
+./debug\myproxymodel.o
+./debug\myproxymodelfordoc.o
+./debug\printpreview.o
+./debug\settingsdialog.o
+./debug\moc_doctable.o
+./debug\moc_mainwindow.o
+./debug\moc_mtable.o
+./debug\moc_myproxymodel.o
+./debug\moc_myproxymodelfordoc.o
+./debug\moc_printpreview.o
+./debug\moc_settingsdialog.o
+);

@@ -1,0 +1,17 @@
+INPUT(
+./release\doctable.o
+./release\main.o
+./release\mainwindow.o
+./release\mtable.o
+./release\myproxymodel.o
+./release\myproxymodelfordoc.o
+./release\printpreview.o
+./release\settingsdialog.o
+./release\moc_doctable.o
+./release\moc_mainwindow.o
+./release\moc_mtable.o
+./release\moc_myproxymodel.o
+./release\moc_myproxymodelfordoc.o
+./release\moc_printpreview.o
+./release\moc_settingsdialog.o
+);
